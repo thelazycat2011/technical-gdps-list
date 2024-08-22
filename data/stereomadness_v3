@@ -1,0 +1,22 @@
+{
+	"id": 1003,
+	"name": "Stereo Madness v3",
+	"tags": [
+	],
+	"author": "Tony3101",
+	"creators": [],
+	"verifier": "Mahdi Alasadi (old version), Tony3101 (new version)",
+	"verification": "https://www.youtube.com/watch?v=fLDhvq4SWwY",
+	"percentToQualify": 100,
+	"password": "No Password",
+	"records": [
+      {
+        {
+			    "user": "JustRandom",
+			    "link": "https://www.youtube.com/watch?v=-cTAVD_455E",
+			    "percent": 100,
+			    "hz": 120
+		    }
+      }
+	]
+}
