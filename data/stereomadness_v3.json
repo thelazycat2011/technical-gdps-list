@@ -2,21 +2,21 @@
 	"id": 1003,
 	"name": "Stereo Madness v3",
 	"tags": [
+		"2.2",
+		"Long"
 	],
 	"author": "Tony3101",
 	"creators": [],
-	"verifier": "Mahdi Alasadi (old version), Tony3101 (new version)",
-	"verification": "https://www.youtube.com/watch?v=fLDhvq4SWwY",
+	"verifier": "Tony3101",
+	"verification": "https://www.youtube.com/watch?v=-cTAVD_455E",
 	"percentToQualify": 100,
-	"password": "No Password",
+	"password": "No Copy",
 	"records": [
-      {
-        {
-			    "user": "JustRandom",
-			    "link": "https://www.youtube.com/watch?v=-cTAVD_455E",
-			    "percent": 100,
-			    "hz": 120
-		    }
-      }
+		{
+			"user": "JustRandom",
+			"link": "https://www.youtube.com/watch?v=-cTAVD_455E",
+			"percent": 100,
+			"hz": 120
+		}
 	]
 }
