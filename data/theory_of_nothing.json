@@ -12,7 +12,16 @@
 	"password": "No Copy",
 	"records": [
 		{
-			
+			"user":"ITheRealMuha",
+    			"link":"https://youtu.be/DVtegHqpbPM",
+    			"percent":100,
+    			"hz":165
+		},
+		{
+			"user":"everydayjonah",
+    			"link":"https://youtu.be/UjuLJDs-VRk",
+    			"percent":100,
+    			"hz":360
 		}
 	]
 }
