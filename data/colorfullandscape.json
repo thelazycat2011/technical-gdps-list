@@ -13,9 +13,15 @@
 	"records": [
 		{
 			"user":"ITheRealMuha",
-    "link":"https://youtu.be/CvrWIID1IXU",
-    "percent":100,
-    "hz":165
+    			"link":"https://youtu.be/CvrWIID1IXU",
+    			"percent":100,
+    			"hz":165
+		},
+		{
+			"user":"everydayjonah",
+    			"link":"https://youtu.be/3YMqBIoPptI",
+    			"percent":100,
+    			"hz":360
 		}
 	]
 }
