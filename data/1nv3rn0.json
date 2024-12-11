@@ -10,8 +10,12 @@
 	"percentToQualify": 100,
 	"password": "No Copy",
 	"records": [
+		
 		{
-			
+			"user":"ITheRealMuha",
+			"link":"https://www.youtube.com/watch?v=n3-b8G4LUK0",
+			"percent":100,
+			"hz":165	
 		}
 	]
 }
