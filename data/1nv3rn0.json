@@ -16,6 +16,12 @@
 			"link":"https://www.youtube.com/watch?v=n3-b8G4LUK0",
 			"percent":100,
 			"hz":165	
-		}
-	]
+		},
+	{
+			"user": "Prolly",
+			"link": "https://www.youtube.com/watch?v=agKadpJRdDg",
+	
+			"percent": 100,
+			"hz": 75
+		}]
 }
