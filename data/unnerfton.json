@@ -11,7 +11,10 @@
 	"password": "No Copy",
 	"records": [
 		{
-			
+			"user":"CosmicMelody",
+			"link":"https://www.youtube.com/watch?v=DvspFk7dgfU",
+			"percent":100,
+			"hz":240
 		}
 	]
 }
