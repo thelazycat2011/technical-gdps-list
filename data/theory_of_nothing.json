@@ -22,6 +22,11 @@
     			"link":"https://youtu.be/UjuLJDs-VRk",
     			"percent":100,
     			"hz":360
-		}
-	]
+		},
+			{
+			"user": "CosmicMelody",
+			"link": "https://www.youtube.com/watch?v=v2rpv2KTEKQ",
+			"percent": 100,
+			"hz": 240
+		}]
 }
