@@ -10,8 +10,13 @@
 	"percentToQualify": 82,
 	"password": "No Copy",
 	"records": [
-		{
-			
+				{
+			"user": "CosmicMelody",
+			"link": "https://www.youtube.com/watch?v=ouUGC0gjX2Q",
+			"percent": 100,
+			"hz": 240
 		}
+			
+		
 	]
 }
