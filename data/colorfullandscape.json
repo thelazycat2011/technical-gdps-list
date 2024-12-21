@@ -23,5 +23,10 @@
     			"percent":100,
     			"hz":360
 		}
-	]
+			{
+			"user": "CosmicMelody",
+			"link": "https://www.youtube.com/watch?v=ZvRMXU1sJuo",
+			"percent": 100,
+			"hz": 240
+		}]
 }
