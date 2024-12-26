@@ -1,0 +1,20 @@
+{
+        "id": 14,
+        "name": "Invasion",
+        "tags": [
+        ],
+        "author": "Stealth",
+        "creators": [],
+        "verifier": "CosmicMelody",
+        "verification": "https://www.youtube.com/watch?v=h4AsLjnczF0",
+        "percentToQualify": 80,
+        "password": "No Copy",
+        "records": [
+                {
+                        "user":"Token",
+                        "link":"https://youtu.be/ovL3z8vSatM",
+                        "percent":100,
+                        "hz":360
+                }
+        ]
+}
