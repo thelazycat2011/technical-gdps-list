@@ -27,6 +27,12 @@
 			"link": "https://www.youtube.com/watch?v=tu6DV79L-ug",
 			"percent": 100,
 			"hz": 240
+		},
+		{
+			"user": "Token",
+			"link": "https://youtu.be/NxCgYbe5IW8",
+			"percent": 100,
+			"hz": 60
 		}
 ]
 }
