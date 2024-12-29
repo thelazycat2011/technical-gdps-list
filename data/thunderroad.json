@@ -1,0 +1,19 @@
+{
+	"id": 51,
+	"name": "Thunder Road",
+	"tags": [
+	],
+	"author": "DartuWc0X",
+	"creators": [],
+	"verifier": "ZeroxyGD",
+	"verification": "https://youtu.be/vn67OTdju1c?si=gZOE1lObc2hM85Q5",
+	"percentToQualify": 70,
+	"password": "No Copy",
+	"records": [
+    {
+			"user":"Token",
+    			"link":"https://youtu.be/N_pRvh5uy1s",
+    			"percent":100,
+    			"hz":60
+		}]
+}
