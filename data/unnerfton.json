@@ -15,6 +15,12 @@
 			"link":"https://www.youtube.com/watch?v=DvspFk7dgfU",
 			"percent":100,
 			"hz":240
+		},
+		{
+			"user":"GameFunny",
+			"link":"https://cdn.discordapp.com/attachments/1322948796547727431/1322948797051175003/Video_sin_titulo_Hecho_con_Clipchamp_3_1_1_1.mp4?ex=6772bb94&is=67716a14&hm=dae3c0784b24d1f03db6dc7e3561b4a3a088ff206a3fdad845ca3fb5fec6447f&",
+			"percent":100,
+                        "hz":240
 		}
 	]
 }
