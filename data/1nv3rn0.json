@@ -35,5 +35,12 @@
     			"link":"https://youtu.be/VmdmRNNgzKM",
     			"percent":100,
     			"hz":360
-		}]
+		},
+	{
+		"user": "GameFunny",
+			"link": "https://drive.google.com/file/d/1DdU5oShR_4gawNV_AoQh-0fkmeCjDUUp/view?usp=drive_link",
+			"percent": 100,
+			"hz": 240
+	}
+	]
 }
