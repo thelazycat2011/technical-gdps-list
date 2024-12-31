@@ -15,6 +15,12 @@
                         "link":"https://youtu.be/ovL3z8vSatM",
                         "percent":100,
                         "hz":360
+                },
+                {
+                        "user":"GameFunny",
+                        "link":"https://drive.google.com/file/d/1t5OpmKMfs7JZ4buxOKy_n_H-UqGrjZYb/view",
+                        "percent":100,
+                        "hz":240
                 }
         ]
 }
