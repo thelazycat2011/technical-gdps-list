@@ -4,7 +4,7 @@
 	"tags": [
 	],
 	"author": "GameFunny",
-	"creators": "GameFunny",
+	"creators": ["GameFunny"],
 	"verifier": "GameFunny",
 	"verification": "https://drive.google.com/file/d/13RSQeGOWWhbOQcRAN6Ovrg9NmK-TcUC5/view?usp=drive_link",
 	"percentToQualify": 85,
