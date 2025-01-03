@@ -10,5 +10,11 @@
 	"percentToQualify": 86,
 	"password": "No Copy",
 	"records": [
+		{
+			"user": "GameFunny",
+			"link": "https://drive.google.com/file/d/12JVK4OLKT3AI-Cx63ezh9hqLklOW1V9R/view?usp=drive_link",
+			"percent": 100,
+			"hz": 240
+		}
 	]
 }
