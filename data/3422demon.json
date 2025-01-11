@@ -40,6 +40,12 @@
     			"link":"https://youtu.be/Pf60PQWlzBA",
     			"percent":100,
     			"hz":360
+		},
+		{
+			"user": "kkolji",
+			"link": "https://www.youtube.com/watch?v=2s1Dj_HEVyY&ab",
+			"percent": 100,
+			"hz": 180
 		}
 		]
 }
